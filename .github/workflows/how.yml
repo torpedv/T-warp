@@ -1,0 +1,8 @@
+- Регистрируемся на GitHub
+- Создаем пустой репозиторий
+- Переходим в 'Actions' -> выбираем 'Suggested for this repository' -> ищем и выбираем образец 'Simple workflow' -> 'Configure' -> 'Commit changes' -> 'Commit changes'
+- Открываем главное меню (три полоски слева сверху) и выбираем Codespaces, создаем New codespace -> Select a repository -> выбираем созданный репо
+- Выбираем регион виртуалки (на свой вкус и цвет) и железо (2 core, 8RAM) и жмём Create codespace
+- Попадаем в среду, где выбираем вкладку ТЕРМИНАЛ
+- В терминал вставляем скрипт и жмём Enter 'bash <(wget -qO- https://raw.githubusercontent.com/ImMALWARE/bash-warp-generator/main/warp_generator.sh)'
+8. В консоли ждем появления ссылки на скачивание WARPa и QR-код для добавления его на мобильное устройство.
